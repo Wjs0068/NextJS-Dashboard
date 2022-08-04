@@ -1,0 +1,8 @@
+.layout {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  background-color: #f8f7ff;
+  height: 86vh;
+  width: 86vw;
+  border-radius: 12px;
+}
